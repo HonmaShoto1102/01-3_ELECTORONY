@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 574be341ae0f7454791cc9f31c6748aa, type: 3}
+  m_Name: StageData
+  m_EditorClassIdentifier: 
+  Sheet1:
+  - id: 1
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_01
+    tips: 9
+  - id: 2
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_02
+    tips: 10
+  - id: 3
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_03
+    tips: 1
+  - id: 4
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_04
+    tips: 7
+  - id: 5
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_05
+    tips: 2
+  - id: 6
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_06
+    tips: 12
+  - id: 7
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_07
+    tips: 11
+  - id: 8
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_08
+    tips: 8
+  - id: 9
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_09
+    tips: 0
+  - id: 10
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_10
+    tips: 3
+  - id: 11
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_11
+    tips: 0
+  - id: 12
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_12
+    tips: 0
+  - id: 13
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_13
+    tips: 4
+  - id: 14
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_14
+    tips: 0
+  - id: 15
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_15
+    tips: 0
+  - id: 16
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_16
+    tips: 5
+  - id: 17
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_17
+    tips: 0
+  - id: 18
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_18
+    tips: 0
+  - id: 19
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_19
+    tips: 0
+  - id: 20
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_20
+    tips: 0
+  - id: 21
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_21
+    tips: 0
+  - id: 22
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_22
+    tips: 6
+  - id: 23
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_23
+    tips: 0
+  - id: 24
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_24
+    tips: 0
+  - id: 25
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_25
+    tips: 0
+  - id: 26
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_26
+    tips: 0
+  - id: 27
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_27
+    tips: 0
+  - id: 28
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_28
+    tips: 0
+  - id: 29
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_29
+    tips: 0
+  - id: 30
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: Stage_30
+    tips: 0
+  - id: 31
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: EX_1
+    tips: 0
+  - id: 32
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: EX_2
+    tips: 0
+  - id: 33
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: EX_3
+    tips: 0
+  - id: 34
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: EX_4
+    tips: 0
+  - id: 35
+    name: "\u30B5\u30F3\u30D7\u30EB \u30B5\u30F3\u30D7\u30EB"
+    path: EX_5
+    tips: 0

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0175a5f132d17d4d8fe88fb90f48a06, type: 3}
+  m_Name: GameSetting
+  m_EditorClassIdentifier: 
+  Sheet1:
+  - mobius_id: 999
+    inside_speed: 0
+    outside_speed: 0
+    score_add_speed: 0
+    score_remove_speed: 0
+    gimmick_time: 30
+    gimmick_add_speed: 0.03
+    gimmick_remove_speed: 0.015
+    score_decrease: 2
+  - mobius_id: 1
+    inside_speed: 0.7
+    outside_speed: 1
+    score_add_speed: 60
+    score_remove_speed: 70
+    gimmick_time: 0
+    gimmick_add_speed: 0
+    gimmick_remove_speed: 0
+    score_decrease: 0
+  - mobius_id: 2
+    inside_speed: 1.2
+    outside_speed: 1.5
+    score_add_speed: 50
+    score_remove_speed: 0
+    gimmick_time: 0
+    gimmick_add_speed: 0
+    gimmick_remove_speed: 0
+    score_decrease: 0
+  - mobius_id: 3
+    inside_speed: 1.6
+    outside_speed: 1.8
+    score_add_speed: 40
+    score_remove_speed: 0
+    gimmick_time: 0
+    gimmick_add_speed: 0
+    gimmick_remove_speed: 0
+    score_decrease: 0
